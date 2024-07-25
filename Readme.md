@@ -1,9 +1,13 @@
 <h1 align="center">Hi 👋, I'm Mrinmoy</h1>
-<h3 align="center">A passionate PROGRAMMER</h3>
 <p align="center">🔧 Talk is cheap, show me the code.</p>
+
+- 🌱 I’m currently learning C, C++, C#, VB.net, Python and x86 assembly
+- 😄 Pronouns: he/him.exe
+- 📫 How to reach me: you can't
+  
 <h3 align="left">About Me 👨‍💻</h3>
 <p align="left">
-    I am a PROGRAMMER.....that's it and I write Programs 
+    I am a PROGRAMMER.....that's it 
 </p>
 
 <p align="left">
