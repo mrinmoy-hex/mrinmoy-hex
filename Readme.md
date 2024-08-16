@@ -1,8 +1,6 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40"/>, I'm Mrinmoy</h1>
 <p align="center">🔧 Talk is cheap, show me the code.</p>
 
-<img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
-
 <h3 align="left">About Me 👨‍💻</h3>
 
 - 🌱 I’m currently learning C++, Deep Learning
