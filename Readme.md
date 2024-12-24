@@ -3,10 +3,15 @@
 
 <h3 align="left">About Me 👨‍💻</h3>
 
-- 🌱 I’m currently learning C++, Deep Learning
+Hello there! I'm Mrinmoy, a passionate programmer who thrives on solving complex problems and crafting efficient, elegant solutions. My journey in technology is fueled by an insatiable curiosity and a love for continuous learning.
+
+--------------
+- 🌱 Currently Learning: C++, Deep Learning, and exploring low-level systems programming.
+- 🛠️ Hobbies: Building open-source projects, solving algorithmic puzzles, and tinkering with low-level optimizations.
 - 😄 Pronouns: he/him.exe
 - 📫 How to reach me: you can't
-
+- 🎯 Interests: Systems programming, compilers, and AI/ML.
+--------------
 
 <p align="left">
 </p>
@@ -29,8 +34,19 @@
 </p>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mrinmoy-hex&show_icons=true&locale=en&layout=donut-vertical&theme=dark" alt="mrinmoy-hex" /></p>
+### 📊 GitHub Stats  
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mrinmoy-hex&show_icons=true&locale=en&rank_icon=github&theme=github_dark" alt="mrinmoy-hex" /></p>
+<!-- Top Languages -->
+<p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mrinmoy-hex&show_icons=true&locale=en&layout=donut-vertical&theme=dark" alt="Top Languages" />
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mrinmoy-hex&theme=dark" alt="mrinmoy-hex" /></p>
+<!-- General Stats -->
+<p>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=mrinmoy-hex&show_icons=true&locale=en&rank_icon=github&theme=github_dark" alt="GitHub Stats" />
+</p>
+
+<!-- Streak Stats -->
+<p>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mrinmoy-hex&theme=dark" alt="GitHub Streak" />
+</p>
