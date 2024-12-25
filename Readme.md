@@ -3,7 +3,7 @@
 
 <h3 align="left">About Me 👨‍💻</h3>
 
-Hello there! I'm Mrinmoy, a passionate programmer who thrives on solving complex problems and crafting efficient, elegant solutions. My journey in technology is fueled by an insatiable curiosity and a love for continuous learning.
+Hello there! I'm Mrinmoy, a passionate programmer who thrives on solving complex problems and crafting efficient, elegant solutions.
 
 --------------
 - 🌱 Currently Learning: C++, Deep Learning, and exploring low-level systems programming.
