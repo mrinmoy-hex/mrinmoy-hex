@@ -6,7 +6,7 @@
 Hello there! I'm Mrinmoy, a passionate programmer who thrives on solving complex problems and crafting efficient, elegant solutions.
 
 --------------
-- 🌱 Currently Learning: C++, Deep Learning, and exploring low-level systems programming.
+- 🌱 Currently Learning: Rust and exploring low-level systems programming.
 - 🛠️ Hobbies: Building open-source projects, solving algorithmic puzzles, and tinkering with low-level optimizations.
 - 😄 Pronouns: he/him.exe
 - 📫 How to reach me: you can't
