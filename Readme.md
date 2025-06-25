@@ -1,16 +1,14 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40"/>, I'm Mrinmoy</h1>
 <p align="center">🔧 Talk is cheap, show me the code.</p>
 
-<h3 align="left">About Me 👨‍💻</h3>
+<!-- <h3 align="left">About Me 👨‍💻</h3>
 
 Hello there! I'm Mrinmoy, a passionate programmer who thrives on solving complex problems and crafting efficient, elegant solutions.
-
+-->
 --------------
 - 🌱 Currently Learning: Rust and exploring low-level systems programming.
-- 🛠️ Hobbies: Building open-source projects, solving algorithmic puzzles, and tinkering with low-level optimizations.
 - 😄 Pronouns: he/him.exe
-- 📫 How to reach me: you can't
-- 🎯 Interests: Systems programming, compilers, and AI/ML.
+- 🎯 Interests: System programming, compilers, and AI/ML.
 --------------
 
 <p align="left">
