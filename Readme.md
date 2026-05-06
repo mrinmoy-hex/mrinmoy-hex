@@ -34,6 +34,8 @@
 
 ### 📊 GitHub Stats
 
+![Language Stats](stats/leaderboard_by_lines.png)
+
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=mrinmoy-hex&theme=github-dark-blue&hide_border=true&border_radius=8" alt="GitHub Streak" />
 </div>
