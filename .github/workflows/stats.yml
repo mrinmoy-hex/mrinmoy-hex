@@ -1,4 +1,5 @@
 name: Update Language Statistics
+
 on:
   schedule:
     - cron: "0 0 * * *"
@@ -12,9 +13,8 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-      - name: Generate Language Stats
-        uses: StefVuck/Github-Language-Stats@v1.2.0
+      - uses: StefVuck/Github-Language-Stats@v1.2.0
         with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          visualization_types: "leaderboard donut" # Removed the comma
-          output_path: "github-stats" # Matching your log output
+          github_token: ${{ secrets.STATS_TOKEN }}
+          visualization_types: "leaderboard"
+          output_path: "stats"
