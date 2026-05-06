@@ -1,8 +1,8 @@
 name: Update Language Statistics
 on:
   schedule:
-    - cron: "0 0 * * *" # Runs every night at midnight
-  workflow_dispatch: # Allows you to run it manually
+    - cron: "0 0 * * *"
+  workflow_dispatch:
 
 permissions:
   contents: write
@@ -16,4 +16,5 @@ jobs:
         uses: StefVuck/Github-Language-Stats@v1.2.0
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
-          visualization_types: "leaderboard,donut"
+          visualization_types: "leaderboard donut" # Removed the comma
+          output_path: "github-stats" # Matching your log output
