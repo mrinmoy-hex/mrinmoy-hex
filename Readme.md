@@ -34,10 +34,24 @@
 
 ### 📊 GitHub Stats
 
-![Language Stats](stats/leaderboard_by_lines.png)
-
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=mrinmoy-hex&theme=github-dark-blue&hide_border=true&border_radius=8" alt="GitHub Streak" />
+
+  <table border="0">
+    <tr>
+      <td align="center" valign="top">
+        <img src="https://github-stats-extended.vercel.app/api?username=mrinmoy-hex&rank_icon=github&show_icons=true&include_all_commits=true&theme=ambient_gradient" alt="GitHub Stats" />
+      </td>
+      <td align="center" valign="top">
+        <img src="https://github-stats-extended.vercel.app/api/top-langs?username=mrinmoy-hex&layout=compact&langs_count=7&theme=react" alt="Top Langs" />
+      </td>
+    </tr>
+  </table>
+
+  <br/>
+
+  <img src="https://streak-stats.demolab.com?user=mrinmoy-hex&theme=material-palenight&hide_border=true&border_radius=8" alt="GitHub Streak" />
+
+
 </div>
 
 ---
