@@ -8,7 +8,7 @@
 
 ### 👨‍💻 About Me
 
-- 📚 Learning **Data Structures & Algorithms** and sharpening my **C++**
+- 🧩 Currently working on: [Mavix Lang](https://github.com/mrinmoy-hex/mavix-lang)
 - 🎯 Interested in **compilers, operating systems, AI/ML, and embedded systems**
 - ⚡ I enjoy understanding how things work under the hood — from bare metal to high-level abstractions
 - 😄 Pronouns: **he/him.exe**
