@@ -15,21 +15,24 @@
 ### 💻 System Overview
 
 ```text
-┌────────────────────────────────────────────────────────────────────────┐
-│  🧩 Project: Architecting Mavix Lang                                   │
-│  🎯 Focus:   Compilers • Operating Systems • AI/ML • Embedded Systems  │
-│  ⚡ Core:    Bare-metal execution to high-level abstractions           │
-│  😄 Identity: he/him.exe                                               │
-└────────────────────────────────────────────────────────────────────────┘
+╔══════════════════════════════════════════════════════════════════════╗
+║ 🧩 PROJECT:  Architecting Mavix Lang                                 ║
+║ 🎯 FOCUS:    Compilers • OS • AI/ML • Embedded                       ║
+║ ⚡ CORE:     Bare-metal execution to high-level abstraction          ║
+║ 😄 IDENTITY: he/him.exe                                              ║
+╚══════════════════════════════════════════════════════════════════════╝
 ```
-
 ---
 
 ### 🚀 ACTIVE_DEPLOYMENT
 
 <p align="center">
   <a href="https://github.com/mrinmoy-hex/mavix-lang">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mrinmoy-hex&repo=mavix-lang&theme=dracula&show_owner=false" alt="Mavix Lang Repo" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mrinmoy-hex&repo=mavix-lang&theme=tokyonight&show_owner=false" alt="Mavix Lang Repo" />
+  </a>
+  
+  <a href="https://github.com/mrinmoy-hex/FCSS-WEB">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mrinmoy-hex&repo=FCSS-WEB&theme=tokyonight&show_owner=false" alt="FCSS WEB Repo" />
   </a>
 </p>
 
