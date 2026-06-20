@@ -52,14 +52,18 @@ I'm a developer who loves building things from the ground up. Currently working 
 
 ## 📊 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mrinmoy-hex&show_icons=true&theme=github_dark&hide_border=true" alt="GitHub Stats" />
+<!-- <div align="center">
+  <img src="https://github-readme-stats.shion.dev/api?username=mrinmoy-hex&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrinmoy-hex&layout=compact&theme=github_dark&hide_border=true&langs_count=8" alt="Top Languages" />
 </div>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=mrinmoy-hex&theme=tokyonight&hide_border=true&border_radius=0&currStreakNum=58A6FF" alt="Streak" />
-</p>
+</p> -->
+
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=mrinmoy-hex&show_icons=true&theme=dark)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/streak?username=mrinmoy-hex&theme=dark)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=mrinmoy-hex&layout=compact&theme=dark&hide=html,css)
 
 ---
 
