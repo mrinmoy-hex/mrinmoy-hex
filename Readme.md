@@ -1,97 +1,70 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Hi+there!+%F0%9F%91%8B;I'm+Mrinmoy+Deka.;and+I'm+a+programmer+%F0%9F%92%BB;)](https://git.io/typing-svg)
 
-
-## 🎯 About Me
- 
-I'm a developer who loves building things from the ground up. Currently working on **Mavix Lang** — exploring compiler design and language architecture.
- 
-> **I'm into:**
-> - 🏗️ Building cool projects & solving interesting problems
-> - 💡 Clean, efficient code & good design
-> - 🌱 Continuous learning & exploring new ideas
-> - 🔥 Open source & community
- 
-**Tech Stack:** C • C++ • Rust • Python • Java • Lua • Bash • CMake • Docker • Linux • Arduino
- 
----
-
-## 🏗️ Featured Projects
-
-<div align="center">
-  <a href="https://github.com/mrinmoy-hex/mavix-lang">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mrinmoy-hex&repo=mavix-lang&theme=blue-green&show_owner=false&hide_border=true" alt="Mavix Lang" width="48%" />
-  </a>
-  <a href="https://github.com/mrinmoy-hex/FCSS-WEB">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mrinmoy-hex&repo=FCSS-WEB&theme=blue-green&show_owner=false&hide_border=true" alt="FCSS WEB" width="48%" />
+<div align="left">
+<a href="https://github.com/mrinmoy-hex">
+  <img src="https://readme-typing-svg.demolab.com?font=Cascadia+Code&weight=800&size=42&color=8B949E&background=0D111700&align=left&vCenter=true&width=650&lines=Hello,+I'm+%3Cmrinmoy_deka%3E&repeat=false" alt="Hello, I'm <mrinmoy_deka>" />
+</a>
+  <br/>
+  <a href="https://github.com/mrinmoy-hex">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=22&pause=2000&color=8B949E&background=0D111700&align=left&vCenter=true&width=600&lines=Systems+%26+Software+Programmer;Building+things+from+scratch;Exploring+Network+Protocols;Learning+by+making" alt="Typing SVG" />
   </a>
 </div>
 
 ---
 
-## 🛠️ Tech Stack
+### `~/about`
 
-**Languages:**
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
-![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+I'm a programmer interested in systems, software, and the fundamentals behind the tools I use. I enjoy building things from scratch, working close to the underlying abstractions, and learning through hands-on projects.
 
-**Tools & Platforms:**
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![CMake](https://img.shields.io/badge/CMake-064F8C?style=for-the-badge&logo=cmake&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+Currently working primarily with **C/C++** and **Python**, while exploring **Rust** and low-level networking. I am currently focused on building a custom **TCP client chat project** to deepen my understanding of network protocols.
 
-**Scripting & Other:**
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
+### `~/stack`
 
----
+<p align="left">
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" alt="Rust" />
+  <img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white" alt="Lua" />
+  <br>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/CMake-064F8C?style=for-the-badge&logo=cmake&logoColor=white" alt="CMake" />
+  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino" />
+</p>
 
-## 📊 GitHub Stats
+### `~/projects`
 
-<!-- <div align="center">
-  <img src="https://github-readme-stats.shion.dev/api?username=mrinmoy-hex&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrinmoy-hex&layout=compact&theme=github_dark&hide_border=true&langs_count=8" alt="Top Languages" />
-</div>
+<!-- Dynamic Project Card 1 -->
+<a href="https://github.com/mrinmoy-hex/Mavix">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=mrinmoy-hex&repo=Mavix&theme=tokyonight&border_radius=0&title_color=00C8FF&icon_color=00C8FF&bg_color=0D1117" alt="Mavix Repo Card" />
+</a>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=mrinmoy-hex&theme=tokyonight&hide_border=true&border_radius=0&currStreakNum=58A6FF" alt="Streak" />
-</p> -->
+<!-- Dynamic Project Card 2 -->
+<a href="https://github.com/mrinmoy-hex/FCSS-WEB">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=mrinmoy-hex&repo=FCSS-WEB&theme=tokyonight&border_radius=0&title_color=00C8FF&icon_color=00C8FF&bg_color=0D1117" alt="FCSS-WEB Repo Card" />
+</a>
 
-![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=mrinmoy-hex&show_icons=true&theme=dark)
-![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/streak?username=mrinmoy-hex&theme=dark)
-![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=mrinmoy-hex&layout=compact&theme=dark&hide=html,css)
+<br clear="left"/> <br/>
 
----
+### `~/activity`
 
-## 🐍 Contribution Graph
+[![Leetcode Stats](https://leetcard.jacoblin.cool/mrinmoy_abstract)](https://leetcode.com/mrinmoy_abstract)
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/mrinmoy-hex/mrinmoy-hex/output/github-contribution-grid-snake-dark.svg" alt="Contribution Graph" />
-</div>
+![Language Stacks](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mrinmoy-hex&theme=github_dark)
 
 ---
 
-## 🤝 Connect With Me
+### `~/connect`
 
-<div align="center">
+<p align="left">
+  <a href="https://github.com/mrinmoy-hex"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://twitter.com/YOUR_X_HANDLE"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"></a>
+  <a href="https://instagram.com/YOUR_INSTAGRAM"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
+  <a href="https://reddit.com/user/YOUR_REDDIT"><img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" alt="Reddit"></a>
+  <a href="mailto:YOUR_EMAIL@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+</p>
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:init350@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/)
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/mrinmoy_abstract)
-
-</div>
-
----
-
-<div align="center">
-
-**Open to collaborations, code reviews, and technical discussions** 💡
-
-*Last updated: 2026*
-
-</div>
+> *Built with curiosity. Powered by a terminal.*
