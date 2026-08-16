@@ -1,0 +1,156 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="230" viewBox="0 0 1200 230">
+  <defs>
+    <!-- Capsule-style dark green → neon green background -->
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#000000"/>
+      <stop offset="48%" stop-color="#071407"/>
+      <stop offset="100%" stop-color="#00FF41"/>
+    </linearGradient>
+
+    <!-- Subtle vertical depth -->
+    <linearGradient id="depth" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#000000" stop-opacity="0.12"/>
+      <stop offset="100%" stop-color="#000000" stop-opacity="0.38"/>
+    </linearGradient>
+
+    <!-- Fade extending from the identity block -->
+    <linearGradient id="nameFade" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#00FF41" stop-opacity="0.9"/>
+      <stop offset="65%" stop-color="#00FF41" stop-opacity="0.25"/>
+      <stop offset="100%" stop-color="#00FF41" stop-opacity="0"/>
+    </linearGradient>
+
+    <!-- Avatar glow -->
+    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="4" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+
+    <!-- Avatar clip -->
+    <clipPath id="avatarClip">
+      <circle cx="260" cy="104" r="57"/>
+    </clipPath>
+
+    <!-- Soft avatar highlight -->
+    <radialGradient id="avatarRing" cx="50%" cy="40%" r="60%">
+      <stop offset="0%" stop-color="#00FF41" stop-opacity="0.22"/>
+      <stop offset="100%" stop-color="#00FF41" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+
+  <!-- Main Capsule-like background -->
+  <rect width="1200" height="230" fill="url(#bg)"/>
+
+  <!-- Lower wave shapes -->
+  <path
+    d="M0 165
+       C150 130 290 145 430 160
+       C610 180 760 160 900 145
+       C1040 130 1125 135 1200 155
+       L1200 230 L0 230 Z"
+    fill="#050A06"
+    opacity="0.88"/>
+
+  <path
+    d="M0 188
+       C170 158 315 168 475 182
+       C650 198 815 178 970 158
+       C1080 143 1145 150 1200 165
+       L1200 230 L0 230 Z"
+    fill="#071407"
+    opacity="0.72"/>
+
+  <!-- Subtle neon wave -->
+  <path
+    d="M0 166
+       C180 134 300 145 455 163
+       C635 184 785 163 930 146
+       C1050 132 1135 139 1200 156"
+    fill="none"
+    stroke="#00FF41"
+    stroke-opacity="0.13"
+    stroke-width="2"/>
+
+  <!-- Depth overlay -->
+  <rect width="1200" height="230" fill="url(#depth)"/>
+
+  <!-- Avatar glow/ring -->
+  <circle cx="260" cy="104" r="68" fill="url(#avatarRing)"/>
+  <circle cx="260" cy="104" r="62"
+          fill="#020402"
+          stroke="#00FF41"
+          stroke-opacity="0.28"
+          stroke-width="2"
+          filter="url(#glow)"/>
+
+  <!--
+    IMPORTANT:
+    Put your avatar at assets/avatar.png in the repository.
+    The SVG is designed to reference that local file.
+  -->
+  <image
+    href="avatar.png"
+    x="203"
+    y="47"
+    width="114"
+    height="114"
+    clip-path="url(#avatarClip)"
+    preserveAspectRatio="xMidYMid slice"/>
+
+  <!-- Crisp avatar border -->
+  <circle cx="260" cy="104" r="58"
+          fill="none"
+          stroke="#00FF41"
+          stroke-width="2.2"
+          stroke-opacity="0.9"/>
+
+  <!-- Name -->
+  <text
+    x="355"
+    y="105"
+    fill="#00FF41"
+    font-family="'JetBrains Mono', 'Fira Code', 'Cascadia Mono', monospace"
+    font-size="49"
+    font-weight="700"
+    letter-spacing="-1.2">
+    Mrinmoy Deka
+  </text>
+
+  <!-- Name underline fade -->
+  <rect x="357" y="120" width="570" height="2" rx="1"
+        fill="url(#nameFade)"/>
+
+  <!-- Subtitle -->
+  <text
+    x="358"
+    y="148"
+    fill="#8AFF80"
+    font-family="'JetBrains Mono', 'Fira Code', 'Cascadia Mono', monospace"
+    font-size="15"
+    font-weight="500"
+    letter-spacing="0.2">
+    Systems  |  Programming Languages  |  Low-Level Software
+  </text>
+
+  <!-- Small terminal prompt -->
+  <text
+    x="358"
+    y="178"
+    fill="#00FF41"
+    fill-opacity="0.52"
+    font-family="'JetBrains Mono', 'Fira Code', 'Cascadia Mono', monospace"
+    font-size="13">
+    &gt; building software from the ground up_
+  </text>
+
+  <!-- Very subtle right-side fade/detail -->
+  <path
+    d="M790 88 C920 75 1050 82 1200 105"
+    fill="none"
+    stroke="url(#nameFade)"
+    stroke-width="1.5"
+    opacity="0.55"/>
+</svg>
