@@ -17,7 +17,7 @@ I'm a programmer interested in systems, software, and the fundamentals behind th
 
 Currently working primarily with **C/C++** and **Python**, while exploring **Rust** and low-level networking. I am currently focused on building a custom **TCP client chat project** to deepen my understanding of network protocols.
 
-### `~/stack`
+### `~/tech tools`
 
 <p align="left">
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
@@ -36,15 +36,32 @@ Currently working primarily with **C/C++** and **Python**, while exploring **Rus
 
 ### `~/projects`
 
-<!-- Dynamic Project Card 1 -->
-<a href="https://github.com/mrinmoy-hex/Mavix">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=mrinmoy-hex&repo=Mavix&theme=tokyonight&border_radius=0&title_color=00C8FF&icon_color=00C8FF&bg_color=0D1117" alt="Mavix Repo Card" />
+<table>
+<tr>
+<td width="50%">
+<a href="https://github.com/mrinmoy-hex/mavix-lang">
+  <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=mrinmoy-hex&repo=mavix-lang&theme=tokyonight&border_radius=8&title_color=00C8FF&icon_color=00C8FF&bg_color=0D1117&border_color=00C8FF&hide_border=false" alt="mavix-lang Repo Card" />
 </a>
-
-<!-- Dynamic Project Card 2 -->
-<a href="https://github.com/mrinmoy-hex/FCSS-WEB">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=mrinmoy-hex&repo=FCSS-WEB&theme=tokyonight&border_radius=0&title_color=00C8FF&icon_color=00C8FF&bg_color=0D1117" alt="FCSS-WEB Repo Card" />
+</td>
+<td width="50%">
+<a href="https://github.com/mrinmoy-hex/flint">
+  <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=mrinmoy-hex&repo=flint&theme=tokyonight&border_radius=8&title_color=00C8FF&icon_color=00C8FF&bg_color=0D1117&border_color=00C8FF&hide_border=false" alt="flint Repo Card" />
 </a>
+</td>
+</tr>
+<tr>
+<td width="50%">
+<a href="https://github.com/mrinmoy-hex/rune">
+  <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=mrinmoy-hex&repo=rune&theme=tokyonight&border_radius=8&title_color=00C8FF&icon_color=00C8FF&bg_color=0D1117&border_color=00C8FF&hide_border=false" alt="rune Repo Card" />
+</a>
+</td>
+<td width="50%">
+<a href="https://github.com/mrinmoy-hex/TCP_CHAT">
+  <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=mrinmoy-hex&repo=TCP_CHAT&theme=tokyonight&border_radius=8&title_color=00C8FF&icon_color=00C8FF&bg_color=0D1117&border_color=00C8FF&hide_border=false" alt="TCP_CHAT Repo Card" />
+</a>
+</td>
+</tr>
+</table>
 
 <br clear="left"/> <br/>
 
@@ -52,19 +69,21 @@ Currently working primarily with **C/C++** and **Python**, while exploring **Rus
 
 [![Leetcode Stats](https://leetcard.jacoblin.cool/mrinmoy_abstract)](https://leetcode.com/mrinmoy_abstract)
 
+![](https://github.com/mrinmoy-hex/github-stats/blob/generated/overview.svg#gh-dark-mode-only)
+
 ![Language Stacks](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mrinmoy-hex&theme=github_dark)
+
 
 ---
 
 ### `~/connect`
 
 <p align="left">
-  <a href="https://github.com/mrinmoy-hex"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
   <a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="https://twitter.com/YOUR_X_HANDLE"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"></a>
-  <a href="https://instagram.com/YOUR_INSTAGRAM"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
+  <a href="https://instagram.com/mr1m0y._dev"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
   <a href="https://reddit.com/user/YOUR_REDDIT"><img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" alt="Reddit"></a>
-  <a href="mailto:YOUR_EMAIL@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="mailto:init2350@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 </p>
 
 > *Built with curiosity. Powered by a terminal.*
