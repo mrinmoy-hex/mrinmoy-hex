@@ -63,8 +63,6 @@ Currently working primarily with **C/C++** and **Python**, while exploring **Rus
 </tr>
 </table>
 
-<br clear="left"/> <br/>
-
 ### `~/activity`
 
 [![Leetcode Stats](https://leetcard.jacoblin.cool/mrinmoy_abstract)](https://leetcode.com/mrinmoy_abstract)
