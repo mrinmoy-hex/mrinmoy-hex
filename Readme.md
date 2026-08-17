@@ -4,9 +4,9 @@
   <img src="https://readme-typing-svg.demolab.com?font=Cascadia+Code&weight=800&size=42&color=8B949E&background=0D111700&align=left&vCenter=true&width=650&lines=Hello,+I'm+%3Cmrinmoy_deka%3E&repeat=false" alt="Hello, I'm <mrinmoy_deka>" />
 </a>
   <br/>
-  <a href="https://github.com/mrinmoy-hex">
+  <!-- <a href="https://github.com/mrinmoy-hex">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=22&pause=2000&color=8B949E&background=0D111700&align=left&vCenter=true&width=600&lines=Systems+%26+Software+Programmer;Building+things+from+scratch;Exploring+Network+Protocols;Learning+by+making" alt="Typing SVG" />
-  </a>
+  </a> -->
 </div>
 
 ---
@@ -56,7 +56,7 @@ Currently working primarily with **C/C++** and **Python**, while exploring **Rus
 </a>
 </td>
 <td width="50%">
-<a href="https://github.com/mrinmoy-hex/TCP_CHAT">
+<a href="https://github.com/mrinmoy-hex/tcp-chat">
   <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=mrinmoy-hex&repo=TCP_CHAT&theme=tokyonight&border_radius=8&title_color=00C8FF&icon_color=00C8FF&bg_color=0D1117&border_color=00C8FF&hide_border=false" alt="TCP_CHAT Repo Card" />
 </a>
 </td>
