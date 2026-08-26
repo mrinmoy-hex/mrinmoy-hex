@@ -17,7 +17,7 @@ I'm a programmer interested in systems, software, and the fundamentals behind th
 
 Currently working primarily with **C/C++** and **Python**, while exploring **Rust** and low-level networking. I am currently focused on building a custom **TCP client chat project** to deepen my understanding of network protocols.
 
-### `~/tech tools`
+### `~/tech stacks`
 
 <p align="left">
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
@@ -65,9 +65,11 @@ Currently working primarily with **C/C++** and **Python**, while exploring **Rus
 
 ### `~/activity`
 
-[![Leetcode Stats](https://leetcard.jacoblin.cool/mrinmoy_abstract)](https://leetcode.com/mrinmoy_abstract)
+[![GitHub Stats](https://www.readmecodegen.com/api/github-stats/svg?username=mrinmoy-hex&cardType=langs)](https://www.readmecodegen.com/custom-github-card-generator)
 
 ![](https://github.com/mrinmoy-hex/github-stats/blob/generated/overview.svg#gh-dark-mode-only)
+
+[![GitHub Stats](https://www.readmecodegen.com/api/github-stats/svg?username=mrinmoy-hex&cardType=streak)](https://www.readmecodegen.com/custom-github-card-generator)
 
 ![Language Stacks](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mrinmoy-hex&theme=github_dark)
 
