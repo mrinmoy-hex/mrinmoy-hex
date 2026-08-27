@@ -31,7 +31,16 @@ Currently working primarily with **C/C++** and **Python**, while exploring **Rus
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
   <img src="https://img.shields.io/badge/CMake-064F8C?style=for-the-badge&logo=cmake&logoColor=white" alt="CMake" />
-  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino" />
+  <br>
+  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino" /> 
+  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="css3" />
+  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="html5" />
+  <img src="https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white" alt="markdown" />
+  <img src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white" alt="sqlite" />
+  <br>
+  <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="mysql" />
+  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="oracle" />
+  
 </p>
 
 ### `~/projects`
@@ -65,13 +74,13 @@ Currently working primarily with **C/C++** and **Python**, while exploring **Rus
 
 ### `~/activity`
 
-[![GitHub Stats](https://www.readmecodegen.com/api/github-stats/svg?username=mrinmoy-hex&cardType=langs)](https://www.readmecodegen.com/custom-github-card-generator)
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=WIZARDOF-OZ&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ![](https://github.com/mrinmoy-hex/github-stats/blob/generated/overview.svg#gh-dark-mode-only)
 
-[![GitHub Stats](https://www.readmecodegen.com/api/github-stats/svg?username=mrinmoy-hex&cardType=streak)](https://www.readmecodegen.com/custom-github-card-generator)
+![GitHub Streak](https://streak-stats.demolab.com/?user=mrinmoy-hex&theme=tokyonight&hide_border=false)<br/>
 
-![Language Stacks](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mrinmoy-hex&theme=github_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mrinmoy-hex&theme=github_dark)
 
 
 ---
