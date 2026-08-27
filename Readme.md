@@ -15,7 +15,7 @@
 
 I'm a programmer interested in systems, software, and the fundamentals behind the tools I use. I enjoy building things from scratch, working close to the underlying abstractions, and learning through hands-on projects.
 
-Currently working primarily with **C/C++** and **Python**, while exploring **Rust** and low-level networking. I am currently focused on building a custom **TCP client chat project** to deepen my understanding of network protocols.
+- I use `Fedora` btw
 
 ### `~/tech stacks`
 
