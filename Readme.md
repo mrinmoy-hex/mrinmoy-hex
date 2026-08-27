@@ -74,7 +74,7 @@ Currently working primarily with **C/C++** and **Python**, while exploring **Rus
 
 ### `~/activity`
 
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=WIZARDOF-OZ&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=mrinmoy-hex&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact&hide=html,css)
 
 ![](https://github.com/mrinmoy-hex/github-stats/blob/generated/overview.svg#gh-dark-mode-only)
 
