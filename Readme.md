@@ -15,7 +15,7 @@
 
 I'm a programmer interested in systems, software, and the fundamentals behind the tools I use. I enjoy building things from scratch, working close to the underlying abstractions, and learning through hands-on projects.
 
-- I use `Fedora` btw
+- I use `Arch` btw
 
 ### `~/tech stacks`
 
