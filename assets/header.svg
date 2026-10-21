@@ -1,0 +1,36 @@
+
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="260" viewBox="0 0 1000 260">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#101C2C"/>
+      <stop offset="100%" stop-color="#0D1117"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#58A6FF"/>
+      <stop offset="100%" stop-color="#79C0FF"/>
+    </linearGradient>
+    <pattern id="grid" width="28" height="28" patternUnits="userSpaceOnUse">
+      <path d="M28 0H0V28" fill="none" stroke="#58A6FF" stroke-opacity=".08"/>
+    </pattern>
+  </defs>
+  <rect width="1000" height="260" rx="16" fill="url(#bg)"/>
+  <rect width="1000" height="260" rx="16" fill="url(#grid)"/>
+  <path d="M0 235H1000" stroke="#58A6FF" stroke-opacity=".35"/>
+  <path d="M720 0L570 260M850 0L700 260M980 0L830 260" stroke="#58A6FF" stroke-opacity=".06"/>
+  <circle cx="928" cy="54" r="80" fill="#58A6FF" opacity=".04"/>
+  <circle cx="928" cy="54" r="55" fill="none" stroke="#58A6FF" stroke-opacity=".2"/>
+  <circle cx="928" cy="54" r="35" fill="none" stroke="#58A6FF" stroke-opacity=".15"/>
+  <g font-family="monospace">
+    <circle cx="32" cy="28" r="5" fill="#FF7B72"/>
+    <circle cx="50" cy="28" r="5" fill="#E3B341"/>
+    <circle cx="68" cy="28" r="5" fill="#3FB950"/>
+    <text x="88" y="32" font-size="12" fill="#8B949E">~/mrinmoy-hex</text>
+    <text x="55" y="91" font-size="14" fill="#58A6FF">$ whoami</text>
+    <text x="50" y="145" font-size="43" font-weight="bold" fill="#E6EDF3">Mrinmoy <tspan fill="url(#accent)">Deka</tspan></text>
+    <text x="55" y="177" font-size="15" fill="#8B949E">SOFTWARE  /  SYSTEMS  /  EXPERIMENTS</text>
+    <text x="55" y="211" font-size="13" fill="#C9D1D9">Learning how things work, one project at a time.</text>
+    <text x="55" y="246" font-size="11" fill="#58A6FF">[ curious by default ]</text>
+    <text x="925" y="160" font-size="13" text-anchor="middle" fill="#58A6FF">010</text>
+    <text x="925" y="178" font-size="13" text-anchor="middle" fill="#58A6FF">101</text>
+  </g>
+</svg>
