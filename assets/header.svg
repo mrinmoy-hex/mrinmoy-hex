@@ -1,36 +1,141 @@
 
-<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="260" viewBox="0 0 1000 260">
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="260" viewBox="0 0 1000 260" fill="none">
   <defs>
-    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0%" stop-color="#101C2C"/>
-      <stop offset="100%" stop-color="#0D1117"/>
+    <linearGradient id="bg" x1="0" y1="0" x2="1000" y2="260" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#07120F"/>
+      <stop offset=".55" stop-color="#0D1719"/>
+      <stop offset="1" stop-color="#101E25"/>
     </linearGradient>
-    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0%" stop-color="#58A6FF"/>
-      <stop offset="100%" stop-color="#79C0FF"/>
+    <linearGradient id="glow" x1="540" y1="0" x2="970" y2="260" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#7FAF91" stop-opacity=".02"/>
+      <stop offset=".6" stop-color="#58A6FF" stop-opacity=".10"/>
+      <stop offset="1" stop-color="#7FAF91" stop-opacity=".03"/>
     </linearGradient>
-    <pattern id="grid" width="28" height="28" patternUnits="userSpaceOnUse">
-      <path d="M28 0H0V28" fill="none" stroke="#58A6FF" stroke-opacity=".08"/>
+    <linearGradient id="fade" x1="0" y1="0" x2="0" y2="260" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0D1117" stop-opacity=".05"/>
+      <stop offset="1" stop-color="#0D1117" stop-opacity=".8"/>
+    </linearGradient>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M32 0H0V32" stroke="#8FBCA2" stroke-opacity=".065" stroke-width=".7"/>
     </pattern>
+    <pattern id="rain" width="72" height="90" patternUnits="userSpaceOnUse">
+      <text x="8" y="14" fill="#7FAF91" fill-opacity=".3" font-family="monospace" font-size="10">01</text>
+      <text x="38" y="32" fill="#58A6FF" fill-opacity=".24" font-family="monospace" font-size="9">10</text>
+      <text x="8" y="48" fill="#7FAF91" fill-opacity=".18" font-family="monospace" font-size="9">11</text>
+      <text x="42" y="67" fill="#7FAF91" fill-opacity=".27" font-family="monospace" font-size="10">00</text>
+      <text x="18" y="84" fill="#58A6FF" fill-opacity=".18" font-family="monospace" font-size="9">01</text>
+    </pattern>
+    <radialGradient id="moon">
+      <stop stop-color="#B5D9C3" stop-opacity=".23"/>
+      <stop offset="1" stop-color="#B5D9C3" stop-opacity="0"/>
+    </radialGradient>
+    <clipPath id="clip">
+      <rect width="1000" height="260" rx="8"/>
+    </clipPath>
   </defs>
-  <rect width="1000" height="260" rx="16" fill="url(#bg)"/>
-  <rect width="1000" height="260" rx="16" fill="url(#grid)"/>
-  <path d="M0 235H1000" stroke="#58A6FF" stroke-opacity=".35"/>
-  <path d="M720 0L570 260M850 0L700 260M980 0L830 260" stroke="#58A6FF" stroke-opacity=".06"/>
-  <circle cx="928" cy="54" r="80" fill="#58A6FF" opacity=".04"/>
-  <circle cx="928" cy="54" r="55" fill="none" stroke="#58A6FF" stroke-opacity=".2"/>
-  <circle cx="928" cy="54" r="35" fill="none" stroke="#58A6FF" stroke-opacity=".15"/>
-  <g font-family="monospace">
-    <circle cx="32" cy="28" r="5" fill="#FF7B72"/>
-    <circle cx="50" cy="28" r="5" fill="#E3B341"/>
-    <circle cx="68" cy="28" r="5" fill="#3FB950"/>
-    <text x="88" y="32" font-size="12" fill="#8B949E">~/mrinmoy-hex</text>
-    <text x="55" y="91" font-size="14" fill="#58A6FF">$ whoami</text>
-    <text x="50" y="145" font-size="43" font-weight="bold" fill="#E6EDF3">Mrinmoy <tspan fill="url(#accent)">Deka</tspan></text>
-    <text x="55" y="177" font-size="15" fill="#8B949E">SOFTWARE  /  SYSTEMS  /  EXPERIMENTS</text>
-    <text x="55" y="211" font-size="13" fill="#C9D1D9">Learning how things work, one project at a time.</text>
-    <text x="55" y="246" font-size="11" fill="#58A6FF">[ curious by default ]</text>
-    <text x="925" y="160" font-size="13" text-anchor="middle" fill="#58A6FF">010</text>
-    <text x="925" y="178" font-size="13" text-anchor="middle" fill="#58A6FF">101</text>
+
+  <g clip-path="url(#clip)">
+    <!-- Base -->
+    <rect width="1000" height="260" fill="url(#bg)"/>
+    <rect width="1000" height="260" fill="url(#grid)"/>
+    <rect width="1000" height="260" fill="url(#rain)"/>
+    <rect width="1000" height="260" fill="url(#glow)"/>
+
+    <!-- Distant moonlit haze -->
+    <circle cx="800" cy="78" r="145" fill="url(#moon)"/>
+    <circle cx="817" cy="66" r="30" fill="#C2D8C8" fill-opacity=".055"/>
+
+    <!-- Layered distant hills -->
+    <path d="M420 190L525 132L585 153L680 96L742 128L820 84L900 140L1000 105V260H420Z"
+          fill="#142621" fill-opacity=".8"/>
+    <path d="M370 218L510 162L598 188L713 135L792 166L885 119L1000 161V260H370Z"
+          fill="#0B1A17" fill-opacity=".9"/>
+    <path d="M480 260L590 198L660 218L755 174L825 204L912 158L1000 184V260Z"
+          fill="#081411"/>
+
+    <!-- Forest silhouettes -->
+    <g fill="#07100E">
+      <path d="M0 207L18 168L31 194L44 153L60 201L77 171L92 211L113 187L132 225V260H0Z"/>
+      <path d="M660 260L685 207L697 225L714 183L730 222L748 194L766 231L785 200L802 231L823 181L842 220L862 196L883 235L903 206L921 235L943 192L963 221L981 184L1000 215V260Z"/>
+    </g>
+    <g stroke="#7FAF91" stroke-opacity=".24" stroke-width="1">
+      <path d="M704 215l-18 -17m18 17l16 -22m-16 22v24"/>
+      <path d="M824 213l-20 -16m20 16l18 -24m-18 24v25"/>
+      <path d="M943 218l-18 -18m18 18l17 -23m-17 23v23"/>
+    </g>
+
+    <!-- Quiet technical details -->
+    <g fill="#7FAF91" font-family="monospace" font-size="10" opacity=".36">
+      <text x="706" y="42">0x01</text>
+      <text x="868" y="89">0101</text>
+      <text x="923" y="125">0x00</text>
+      <text x="732" y="158">1010</text>
+      <text x="617" y="71">01 / 10</text>
+    </g>
+    <g stroke="#7FAF91" stroke-opacity=".22">
+      <path d="M698 48h34"/>
+      <path d="M861 95h45"/>
+      <path d="M917 131h28"/>
+    </g>
+
+    <!-- Left-side readability overlay -->
+    <rect x="0" y="0" width="680" height="260" fill="url(#fade)"/>
+    <rect x="0" y="0" width="1000" height="260" fill="#050B0A" fill-opacity=".14"/>
+
+    <!-- Terminal prompt -->
+    <g font-family="monospace">
+      <circle cx="39" cy="37" r="3" fill="#7FAF91"/>
+      <text x="52" y="41" fill="#7FAF91" font-size="12">mrinmoy@devbox</text>
+      <text x="183" y="41" fill="#8B949E" font-size="12">~</text>
+      <text x="202" y="41" fill="#58A6FF" font-size="13">❯</text>
+      <path d="M218 30v13" stroke="#7FAF91" stroke-width="2" stroke-linecap="round" opacity=".8"/>
+    </g>
+
+    <!-- Main identity -->
+    <text x="40" y="111"
+          fill="#E6EDF3"
+          font-family="monospace"
+          font-size="37"
+          font-weight="600"
+          letter-spacing="-1.5">Mrinmoy Deka</text>
+
+    <path d="M41 130H205" stroke="#7FAF91" stroke-width="2"/>
+    <path d="M205 130H245" stroke="#58A6FF" stroke-opacity=".55" stroke-width="2"/>
+
+    <text x="41" y="158"
+          fill="#A9C8B5"
+          font-family="monospace"
+          font-size="15">curious about what's under the hood.</text>
+
+    <text x="41" y="190"
+          fill="#8B949E"
+          font-family="monospace"
+          font-size="12">code</text>
+    <circle cx="79" cy="186" r="2" fill="#7FAF91"/>
+    <text x="91" y="190"
+          fill="#8B949E"
+          font-family="monospace"
+          font-size="12">systems</text>
+    <circle cx="153" cy="186" r="2" fill="#58A6FF"/>
+    <text x="165" y="190"
+          fill="#8B949E"
+          font-family="monospace"
+          font-size="12">experiments</text>
+
+    <!-- Small code fragment instead of a fake status label -->
+    <g font-family="monospace" font-size="11">
+      <rect x="760" y="187" width="199" height="48" rx="4"
+            fill="#08110F" fill-opacity=".68"
+            stroke="#7FAF91" stroke-opacity=".3"/>
+      <circle cx="774" cy="199" r="2" fill="#7FAF91" fill-opacity=".8"/>
+      <text x="783" y="203" fill="#7FAF91" fill-opacity=".85">while (curious) {</text>
+      <text x="783" y="219" fill="#8B949E">  keep_building();</text>
+      <text x="929" y="229" fill="#58A6FF" fill-opacity=".7">}</text>
+    </g>
+
+    <!-- Fine bottom accent -->
+    <path d="M0 253H1000" stroke="#7FAF91" stroke-opacity=".45"/>
+    <path d="M0 253H220" stroke="#7FAF91" stroke-width="1.5"/>
+    <path d="M220 253H275" stroke="#58A6FF" stroke-opacity=".65" stroke-width="1.5"/>
   </g>
 </svg>
