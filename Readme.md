@@ -145,10 +145,15 @@ My Neovim configuration and experiments with a personalized, terminal-first deve
 </p>
 
 <p align="center">
-  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mrinmoy-hex&theme=github_dark" alt="GitHub contribution summary" />
+  <img
+    width="49%"
+    src="https://streak-stats.demolab.com/?user=mrinmoy-hex&hide_border=true&background=0D1117&ring=7FAF91&fire=79C0B0&currStreakLabel=7FAF91&sideLabels=C9D1D9&currStreakNum=E6EDF3&sideNums=C9D1D9&dates=8B949E"
+    alt="GitHub contribution streak"
+  />
 </p>
 
 ---
+
 
 <div align="center">
 
