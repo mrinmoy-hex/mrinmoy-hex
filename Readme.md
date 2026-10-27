@@ -157,7 +157,9 @@ My Neovim configuration and experiments with a personalized, terminal-first deve
 
 <div align="center">
 
-### Stay curious. Keep building.
+<samp>// end of file</samp>
+
+<br/>
 
 <code>return 0;</code>
 
