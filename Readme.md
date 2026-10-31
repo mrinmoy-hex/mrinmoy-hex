@@ -135,7 +135,7 @@ My Neovim configuration and experiments with a personalized, terminal-first deve
 
 ## `// activity.log`
 
-<p align="center">
+<!-- <p align="center">
   <a href="https://github.com/mrinmoy-hex">
     <img height="180" src="https://github-readme-stats.vercel.app/api?username=mrinmoy-hex&show_icons=true&include_all_commits=true&rank_icon=github&theme=github_dark&bg_color=0D1117&title_color=7FAF91&text_color=C9D1D9&icon_color=A3C9AD&border_color=263A30" alt="GitHub statistics" />
   </a>
@@ -150,7 +150,11 @@ My Neovim configuration and experiments with a personalized, terminal-first deve
     src="https://streak-stats.demolab.com/?user=mrinmoy-hex&hide_border=true&background=0D1117&ring=7FAF91&fire=79C0B0&currStreakLabel=7FAF91&sideLabels=C9D1D9&currStreakNum=E6EDF3&sideNums=C9D1D9&dates=8B949E"
     alt="GitHub contribution streak"
   />
-</p>
+</p> -->
+
+![](https://github-readme-stats.shion.dev/api?username=mrinmoy-hex&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=mrinmoy-hex&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact&hide=css,html)
+![](https://streak-stats.demolab.com/?user=mrinmoy-hex&theme=tokyonight&hide_border=false)<br/>
 
 ---
 
