@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://raw.githubusercontent.com/mrinmoy-hex/mrinmoy-hex/main/assets/header.svg" alt="Mrinmoy Deka — curious about what's under the hood." />
+<img width="100%" src="https://raw.githubusercontent.com/mrinmoy-hex/mrinmoy-hex/main/assets/header.svg?v=2" alt="header-bg" />
 
 <p>
   <samp>software &nbsp;·&nbsp; systems &nbsp;·&nbsp; curiosity</samp>
