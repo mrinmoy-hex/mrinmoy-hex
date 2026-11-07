@@ -1,7 +1,7 @@
 <h1>
   Hi, there
   <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="34" alt="wave" />
-  I'm Mrinmoy Deka
+  I'm <code>Mrinmoy Deka</code>
 </h1>
 
 <a href="https://github.com/mrinmoy-hex">
