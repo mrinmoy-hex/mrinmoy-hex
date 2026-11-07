@@ -1,35 +1,27 @@
-<div align="center">
+<h1>
+  Hi, there
+  <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="34" alt="wave" />
+  I'm Mrinmoy Deka
+</h1>
 
-<img width="100%" src="https://raw.githubusercontent.com/mrinmoy-hex/mrinmoy-hex/main/assets/header.svg?v=2" alt="header-bg" />
-
-<p>
-  <samp>software &nbsp;·&nbsp; systems &nbsp;·&nbsp; curiosity</samp>
-</p>
-
-</div>
+<a href="https://github.com/mrinmoy-hex">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=2800&pause=1200&color=3FB27F&vCenter=true&repeat=true&width=500&height=45&lines=%3E+systems+programming;%3E+operating+systems;%3E+machine+learning" alt="Systems programming, operating systems, machine learning" />
+</a>
 
 ---
 
 ## `// about`
 
-### Curious about what's beneath the surface.
+I like understanding how computers work below the abstractions: systems programming and operating systems. I'm also learning machine learning.
 
-I'm interested in understanding how computers work beyond the abstractions we use every day.
-
-My interests span **systems programming, operating systems, and programming language design** — exploring the ideas that connect code to the machine underneath.
-
-I'm also interested in **artificial intelligence, machine learning, and deep learning**: how models learn, the mathematics behind them, and how these ideas translate into practical applications.
-
-Most of my learning happens through building projects, reading code, tinkering with Linux, and following the occasional rabbit hole.
+I learn by building things, reading other people's code, and breaking Linux (and occasionally introducing new `bugs` :|.
 
 **Areas of interest**
 
 - Systems programming and operating systems
-- Programming language design and implementation
+- Networking
 - Machine learning and deep learning
-- Linux, networking, and developer tooling
-
-> Build. Break. Understand. Repeat.
+- Linux and developer tooling
 
 ---
 
@@ -67,48 +59,17 @@ Most of my learning happens through building projects, reading code, tinkering w
   <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle" />
 </p>
 
-<!--
-### AI, machine learning & deep learning
-
-<p>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="scikit-learn" />
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
-</p>
--->
 ---
 
 ## `// activity.log`
 
-<!-- <p align="center">
-  <a href="https://github.com/mrinmoy-hex">
-    <img height="180" src="https://github-readme-stats.vercel.app/api?username=mrinmoy-hex&show_icons=true&include_all_commits=true&rank_icon=github&theme=github_dark&bg_color=0D1117&title_color=7FAF91&text_color=C9D1D9&icon_color=A3C9AD&border_color=263A30" alt="GitHub statistics" />
-  </a>
-  <a href="https://github.com/mrinmoy-hex">
-    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrinmoy-hex&layout=compact&langs_count=6&theme=github_dark&bg_color=0D1117&title_color=7FAF91&text_color=C9D1D9&border_color=263A30&hide=css,html" alt="Most-used programming languages" />
-  </a>
-</p>
-
-<p align="center">
-  <img
-    width="49%"
-    src="https://streak-stats.demolab.com/?user=mrinmoy-hex&hide_border=true&background=0D1117&ring=7FAF91&fire=79C0B0&currStreakLabel=7FAF91&sideLabels=C9D1D9&currStreakNum=E6EDF3&sideNums=C9D1D9&dates=8B949E"
-    alt="GitHub contribution streak"
-  />
-</p> -->
-
-![](https://github-readme-stats.shion.dev/api?username=mrinmoy-hex&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=mrinmoy-hex&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact&hide=css,html)
-![](https://streak-stats.demolab.com/?user=mrinmoy-hex&theme=tokyonight&hide_border=false)<br/>
+![GitHub stats](https://github-readme-stats.shion.dev/api?username=mrinmoy-hex&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![Top languages](https://github-readme-stats.shion.dev/api/top-langs/?username=mrinmoy-hex&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact&hide=css,html)
+![Contribution streak](https://streak-stats.demolab.com/?user=mrinmoy-hex&theme=tokyonight&hide_border=false)<br/>
 
 ---
 
-
 <div align="center">
-
-<samp>// end of file</samp>
-
-<br/>
 
 <code>return 0;</code>
 
